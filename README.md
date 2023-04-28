@@ -1,2 +1,2 @@
-# guthib.com v2
-A newer version of guthib.com
+# GutHib v2
+An updated version of guthib.com
